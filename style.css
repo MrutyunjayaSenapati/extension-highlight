@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    width: 300px;
+}
+
+#highlight-list {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
